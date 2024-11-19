@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there, I'm Gabe! 👋
+# Hi there, I'm Saad! 👋
 
 Welcome to my GitHub profile! Here, you'll find a collection of my projects, collaborations, and contributions to the open-source community. I'm passionate about coding, learning new technologies, and building impactful solutions.
 
@@ -10,21 +10,16 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, col
 
 ![Gabe's GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&hide_border=true)
-
 ---
 
-### About Me
-- I am Saad Khan Yousafzai, a proud Pathan.
-- I’m a passionate movie enthusiast and a devoted fan of South Korean dramas.
-- Storytelling through cinema and TV series inspires me, and I love exploring the emotions and cultures they bring to life.
 
+## 🌟 About Me  
+- 📖 Currently taking **CS50’s Introduction to Computer Science** from Harvard University.  
+- 🌐 Learning the fundamentals of **HTML** and **CSS** to create responsive, user-friendly websites.  
+- 💡 Exploring new ways to solve problems and bring ideas to life through code.  
+- 🎯 My goal is to become a well-rounded developer capable of tackling complex challenges.  
+- ⚡ Fun fact: I believe in the power of **learning by doing** and enjoy experimenting with new technologies.  
 
----
-
-### Let's Connect
-- [LinkedIn](https://linkedin.com/in/YourLinkedInUsername)
-- [Twitter](https://twitter.com/YourTwitterUsername)
 
 ---
 
