@@ -15,9 +15,10 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, col
 ---
 
 ### About Me
-- 🌱 I’m currently learning **[add what you’re learning, e.g., TypeScript, AI, etc.]**.
-- 💼 Open to collaboration on exciting projects.
-- 📫 How to reach me: [Your Preferred Contact, e.g., Email or LinkedIn Profile].
+- I am Saad Khan Yousafzai, a proud Pathan.
+- I’m a passionate movie enthusiast and a devoted fan of South Korean dramas.
+- Storytelling through cinema and TV series inspires me, and I love exploring the emotions and cultures they bring to life.
+
 
 ---
 
