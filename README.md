@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my projects, col
 
 ### GitHub Stats
 
-![Gabe's GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=radical&hide_border=true)
+![Saad's GitHub Streak](https://streak-stats.demolab.com/?user=saadkhan4&theme=radical&hide_border=true)
 
 ---
 
